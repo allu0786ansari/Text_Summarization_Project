@@ -1,0 +1,37 @@
+[2024-09-28 10:48:55,761: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\config\config.yaml loaded successfully] 
+[2024-09-28 10:48:55,763: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\params.yaml loaded successfully] 
+[2024-09-28 10:48:55,765: INFO: common: Directory created at: artifacts] 
+[2024-09-28 10:50:54,437: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\config\config.yaml loaded successfully] 
+[2024-09-28 10:50:54,439: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\params.yaml loaded successfully] 
+[2024-09-28 10:50:54,443: INFO: common: Directory created at: artifacts] 
+[2024-09-28 10:51:27,702: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\config\config.yaml loaded successfully] 
+[2024-09-28 10:51:27,703: INFO: common: yaml file: c:\Users\LENOVO\Text_Summarization_Project\params.yaml loaded successfully] 
+[2024-09-28 10:51:27,703: INFO: common: Directory created at: artifacts] 
+[2024-09-28 10:51:27,710: INFO: common: Directory created at: artifacts/data_ingestion] 
+[2024-09-28 10:51:32,632: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F0F8:EDB91:14C145:1A1144:66F7922A
+Accept-Ranges: bytes
+Date: Sat, 28 Sep 2024 05:20:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100020-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1727500843.238602,VS0,VE759
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 793819fc47583b24298a08a85332493c6b436b6b
+Expires: Sat, 28 Sep 2024 05:25:43 GMT
+Source-Age: 0
+
+] 
