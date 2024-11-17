@@ -1,5 +1,5 @@
 # Ongoing....
-# Text_Summarization_Project
+# Text_Summarization_Project...it takes time to complete as expected 
 ## Workflows
 
 1. Update config.yaml
